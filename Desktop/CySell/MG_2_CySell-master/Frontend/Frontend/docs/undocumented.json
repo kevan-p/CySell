@@ -1,0 +1,383 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 16,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 18,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 22,
+      "symbol": "AppDelegate.application(application:shouldSaveApplicationState:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 26,
+      "symbol": "AppDelegate.application(application:shouldRestoreApplicationState:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 30,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 34,
+      "symbol": "AppDelegate.application(_:open:sourceApplication:annotation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 38,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 46,
+      "symbol": "AppDelegate.save(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 55,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 59,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/AppDelegate.swift",
+      "line": 64,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemDisplay_TableViewController.swift",
+      "line": 40,
+      "symbol": "ItemDisplay_TableViewController.Item.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemDisplay_TableViewController.swift",
+      "line": 41,
+      "symbol": "ItemDisplay_TableViewController.Item.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemDisplay_TableViewController.swift",
+      "line": 42,
+      "symbol": "ItemDisplay_TableViewController.Item.description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemDisplay_TableViewController.swift",
+      "line": 43,
+      "symbol": "ItemDisplay_TableViewController.Item.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemDisplay_TableViewController.swift",
+      "line": 44,
+      "symbol": "ItemDisplay_TableViewController.Item.price",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemDisplay_TableViewController.swift",
+      "line": 47,
+      "symbol": "ItemDisplay_TableViewController.Item.init(name:id:description:type:price:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemDisplay_TableViewController.swift",
+      "line": 160,
+      "symbol": "ItemDisplay_TableViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemDisplay_TableViewController.swift",
+      "line": 164,
+      "symbol": "ItemDisplay_TableViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemPostViewController.swift",
+      "line": 76,
+      "symbol": "ItemPostViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemPost_TableViewCell.swift",
+      "line": 25,
+      "symbol": "ItemPost_TableViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ItemPost_TableViewCell.swift",
+      "line": 29,
+      "symbol": "ItemPost_TableViewCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/LoginViewController.swift",
+      "line": 50,
+      "symbol": "LoginViewController.User.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/LoginViewController.swift",
+      "line": 51,
+      "symbol": "LoginViewController.User.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/LoginViewController.swift",
+      "line": 53,
+      "symbol": "LoginViewController.User.init(name:id:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/MapView.swift",
+      "line": 152,
+      "symbol": "MapView.saveMarkerDB()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 17,
+      "symbol": "message_t.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 18,
+      "symbol": "message_t.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 19,
+      "symbol": "message_t.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 20,
+      "symbol": "message_t.date",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 27,
+      "symbol": "message_t.init(id:name:text:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 66,
+      "symbol": "Chat_VC.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 157,
+      "symbol": "Chat_VC.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 162,
+      "symbol": "Chat_VC.collectionView(_:messageDataForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 168,
+      "symbol": "Chat_VC.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 173,
+      "symbol": "Chat_VC.collectionView(_:avatarImageDataForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 179,
+      "symbol": "Chat_VC.collectionView(_:messageBubbleImageDataForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 196,
+      "symbol": "Chat_VC.parameters.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 197,
+      "symbol": "Chat_VC.parameters.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 198,
+      "symbol": "Chat_VC.parameters.receiverID",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 199,
+      "symbol": "Chat_VC.parameters.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 202,
+      "symbol": "Chat_VC.parameters.init(name:id:receiverID:text:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 211,
+      "symbol": "Chat_VC.didPressSend(_:withMessageText:senderId:senderDisplayName:date:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 227,
+      "symbol": "Chat_VC.collectionView(_:attributedTextForMessageBubbleTopLabelAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/Messenger/Chat_VC.swift",
+      "line": 232,
+      "symbol": "Chat_VC.collectionView(_:layout:heightForMessageBubbleTopLabelAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ShowMore_ViewController.swift",
+      "line": 35,
+      "symbol": "ShowMore_ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ShowMore_ViewController.swift",
+      "line": 40,
+      "symbol": "ShowMore_ViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ViewController.swift",
+      "line": 15,
+      "symbol": "ViewController.TicketsButton(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ViewController.swift",
+      "line": 18,
+      "symbol": "ViewController.ElectronicsButton(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ViewController.swift",
+      "line": 20,
+      "symbol": "ViewController.FurnitureButton(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ViewController.swift",
+      "line": 23,
+      "symbol": "ViewController.BooksButton(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ViewController.swift",
+      "line": 25,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend/Frontend/ViewController.swift",
+      "line": 30,
+      "symbol": "ViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/Matt/Documents/MG_2_CySell/Frontend/Frontend"
+}

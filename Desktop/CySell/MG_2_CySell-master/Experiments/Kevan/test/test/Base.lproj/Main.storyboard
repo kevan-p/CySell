@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="test" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KZu-Mv-ERN">
+                                <rect key="frame" x="144" y="574" width="87" height="35"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="35" id="g2F-ul-Sjx"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                                <state key="normal" title="Directions">
+                                    <color key="titleColor" red="1" green="0.0" blue="0.17485795020552697" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="directionView:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GGK-9F-Wph"/>
+                                </connections>
+                            </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="directionLandscape" translatesAutoresizingMaskIntoConstraints="NO" id="d3Q-Gd-Met">
+                                <rect key="frame" x="13" y="385" width="349" height="149"/>
+                                <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="349" id="5aW-Km-YVG"/>
+                                    <constraint firstAttribute="height" constant="149" id="FS3-XP-f8c"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="0.99991799768445411" blue="0.00014873206001786432" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="KZu-Mv-ERN" secondAttribute="trailing" constant="144" id="1vu-9p-oZ7"/>
+                            <constraint firstItem="KZu-Mv-ERN" firstAttribute="top" secondItem="d3Q-Gd-Met" secondAttribute="bottom" constant="40" id="6dm-FY-EvW"/>
+                            <constraint firstItem="KZu-Mv-ERN" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="144" id="8jp-5d-thR"/>
+                            <constraint firstItem="d3Q-Gd-Met" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="365" id="FNb-6a-Ym1"/>
+                            <constraint firstItem="d3Q-Gd-Met" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="13" id="aI5-4T-PNh"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="d3Q-Gd-Met" secondAttribute="trailing" constant="13" id="kz8-C4-N74"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="KZu-Mv-ERN" secondAttribute="bottom" constant="58" id="of8-AZ-5ZF"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="32.799999999999997" y="33.733133433283363"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="directionLandscape" width="1669" height="723"/>
+    </resources>
+</document>

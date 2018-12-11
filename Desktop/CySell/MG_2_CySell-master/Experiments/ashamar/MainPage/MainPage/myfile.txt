@@ -1,0 +1,4 @@
+PSt, Name, Desc, Price
+Tv_for_Sale, Mitchell, Samsung_TV, $60
+laptop_for_Sale, Matthew, Samsung_TV, $70
+Phone_for_sale, Kevan, Iphone, $300

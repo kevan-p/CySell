@@ -1,0 +1,49 @@
+stages:
+ - mavenbuild
+ - maventest
+ - autodeploy
+ - build
+
+maven-build:
+  stage: mavenbuild
+  tags:
+    - maven_runner
+  script:
+    - cd Backend
+    - cd API
+    - mvn package -B
+
+maven-test:
+  stage: maventest
+  tags:
+    - maven_runner
+  script:
+    - cd Backend
+    - cd API
+    - mvn test
+  artifacts:
+    paths:
+      - /API/target/*.jar
+
+autoDeploy:
+  stage: autodeploy
+  tags:
+   - maven_runner
+  script:
+    - cd Backend
+    - cd API
+    - mvn package
+    - sudo mv target/*.jar /target/web-demo.jar
+    - sudo systemctl stop system-web-demo
+    - sudo systemctl start system-web-demo
+
+
+build_project:
+  stage: build
+  script:
+    - cd Frontend
+    - cd Frontend
+    - xcodebuild clean -workspace Frontend.xcworkspace -scheme Frontend | xcpretty
+    - xcodebuild test -workspace Frontend.xcworkspace -scheme Frontend -destination 'platform=iOS Simulator,name=iPhone 8,OS=12.0' | xcpretty -s
+  tags:
+    - ios_runner

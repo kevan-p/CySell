@@ -1,0 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+project 'test/test.xcodeproj'
+    pod 'GoogleMaps'
+    pod 'GooglePlaces'
+end
